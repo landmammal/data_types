@@ -1,0 +1,19 @@
+{
+  "name": "data_types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landmammal/data_types.git"
+  },
+  "author": "Icreate <idevelopedreams@gmail.com> (http://live2create.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/landmammal/data_types/issues"
+  },
+  "homepage": "https://github.com/landmammal/data_types#readme"
+}
